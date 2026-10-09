@@ -1,0 +1,9 @@
+
+# Compiled C and C++ files
+*.exe
+*.o
+*.i
+*.s
+
+# Compiled Java files
+*.class
